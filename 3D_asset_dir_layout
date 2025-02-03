@@ -1,0 +1,15 @@
+mkdir 3Dwork
+mkdir 2Dwork
+mkdir Cam
+mkdir Textures
+mkdir Abc
+mkdir Render
+mkdir Unity
+mkdir cache
+
+cd Render/
+mkdir Playblast
+mkdir Preview
+mkdir batch
+
+cd ../
