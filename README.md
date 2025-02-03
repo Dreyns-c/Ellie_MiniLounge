@@ -1,7 +1,8 @@
 # Ellie_MiniLounge
 
 
-# The organisation for the 3D assets directories should be as follows :
+#Work pipeline
+ The organisation for the 3D assets directories should be as follows :
 
 	/"ASSET_NAME"/
 
@@ -18,7 +19,8 @@
 		-/Cache       #this is where you save FX simulation files if needed
 
 
+#Workflow 
+ File tree are organised with the root folder in full caps and subsequent files with their first letter capitaled, other files are in lower case.
 
-# File tree are organised with the root folder in full caps and subsequent files with their first letter capitaled, other files are in lower case.
-# To avoid any issues you should avoid using any special character other than "_" and "-" not even space, some software can break if those character
-# are present, so to facilitate a problem-less workflow please keep that in mind.
+ To avoid any issues you should avoid using any special character other than "_" and "-" not even space, some software can break if those character
+are present, so to facilitate a problem-less workflow please keep that in mind.
