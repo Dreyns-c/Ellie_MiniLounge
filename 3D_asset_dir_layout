@@ -5,11 +5,11 @@ mkdir Textures
 mkdir Abc
 mkdir Render
 mkdir Unity
-mkdir cache
+mkdir CXache
 
 cd Render/
 mkdir Playblast
 mkdir Preview
-mkdir batch
+mkdir Batch
 
 cd ../
